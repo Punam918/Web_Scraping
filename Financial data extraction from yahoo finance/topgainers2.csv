@@ -1,0 +1,19 @@
+symbol,name,price,change,percentchange,volume,avgvolume,marketcap,pbyeratio,fiftytwoweekpercentchange
+ THO   ,"THOR Industries, Inc.",103.95,+3.22,+3.20%,"881,255","555,522 ",5.532B,26.52 ,-8.69% 
+ WBA   ,"Walgreens Boots Alliance, Inc.",12.93,+0.40,+3.19%,18.354M,23.651M ,11.173B,- ,-41.23% 
+ ZLAB   ,Zai Lab Limited,25.38,+0.78,+3.17%,"439,864","932,151 ",2.765B,- ,4.95% 
+ LNG   ,"Cheniere Energy, Inc.",253.66,+7.78,+3.16%,2.358M,1.729M ,56.912B,16.12 ,57.50% 
+ OGE   ,OGE Energy Corp.,42.37,+1.29,+3.14%,"854,050",1.073M ,8.514B,21.29 ,27.81% 
+ COLD   ,"Americold Realty Trust, Inc.",21.39,+0.65,+3.13%,1.826M,2.05M ,6.08B,- ,-29.41% 
+ HEI   ,HEICO Corporation,235.58,+7.15,+3.13%,"826,715","539,855 ",28.623B,64.02 ,33.56% 
+ DTM   ,"DT Midstream, Inc.",112.27,+3.40,+3.12%,"940,570","920,600 ",11.376B,26.48 ,102.59% 
+ YY   ,JOYY Inc.,41.67,+1.25,+3.09%,"409,749","502,663 ",2.176B,12.48 ,35.41% 
+ OS   ,"OneStream, Inc.",28.79,+0.86,+3.08%,1.857M,1.163M ,6.752B,- ,4.02% 
+ AAP   ,"Advance Auto Parts, Inc.",45.73,+1.36,+3.07%,1.109M,2.381M ,2.732B,57.89 ,-28.27% 
+ TOELY   ,Tokyo Electron Limited,86.00,+2.55,+3.06%,"44,384","155,491 ",78.938B,26.88 ,-11.88% 
+ NI   ,NiSource Inc.,38.03,+1.12,+3.03%,3.376M,3.594M ,17.752B,23.19 ,48.55% 
+ GWRE   ,"Guidewire Software, Inc.",179.76,+5.29,+3.03%,"983,969","930,621 ",15.013B,485.84 ,55.97% 
+ LRLCY   ,L'Oréal S.A.,69.79,+2.05,+3.03%,"43,791","373,937 ",186.448B,27.16 ,-25.19% 
+ DOCN   ,"DigitalOcean Holdings, Inc.",35.27,+1.03,+3.01%,1.098M,"875,928 ",3.255B,39.63 ,-1.21% 
+ AEE   ,Ameren Corporation,93.86,+2.74,+3.01%,1.143M,1.347M ,25.054B,22.08 ,35.48% 
+ NEE   ,"NextEra Energy, Inc.",71.37,+2.08,+3.00%,11.457M,10.488M ,146.765B,21.18 ,24.64% 

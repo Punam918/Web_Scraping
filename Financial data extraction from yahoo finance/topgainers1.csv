@@ -1,0 +1,101 @@
+symbol,name,price,change,percentchange,volume,avgvolume,marketcap,pbyeratio,fiftytwoweekpercentchange
+ SYM   ,Symbotic Inc.,31.82,+5.05,+18.86%,12.554M,2.406M ,18.692B,- ,-39.30% 
+ CFRUY   ,Compagnie Financière Richemont SA,17.73,+2.59,+17.11%,"81,881","731,052 ",103.638B,29.55 ,31.85% 
+ RUM   ,Rumble Inc.,12.25,+1.37,+12.59%,7.465M,6.841M ,3.479B,- ,203.06% 
+ NEXT   ,NextDecade Corporation,9.04,+0.94,+11.60%,6.777M,1.789M ,2.353B,- ,76.86% 
+ LVMUY   ,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",144.12,+13.36,+10.22%,"204,740","396,963 ",368.022B,25.02 ,-0.47% 
+ INGM   ,Ingram Micro Holding Corporation,22.64,+1.93,+9.32%,"315,907","488,003 ",5.316B,16.77 ,-15.81% 
+ CVNA   ,Carvana Co.,231.92,+17.88,+8.35%,8.027M,3.37M ,27.122B,- ,376.49% 
+ OLLI   ,"Ollie's Bargain Outlet Holdings, Inc.",104.48,+7.48,+7.71%,1.752M,1.158M ,6.402B,28.86 ,29.73% 
+ DUOL   ,"Duolingo, Inc.",341.80,+21.82,+6.82%,"905,345","539,040 ",14.074B,175.28 ,64.43% 
+ NFE   ,New Fortress Energy Inc.,15.92,+1.01,+6.77%,3.027M,5.243M ,4.253B,17.49 ,-53.95% 
+ VRNA   ,Verona Pharma plc,53.64,+3.33,+6.62%,1.988M,1.128M ,4.389B,- ,193.01% 
+ PPRUY   ,Kering SA,24.35,+1.47,+6.42%,"52,501","387,808 ",29.854B,13.99 ,-36.89% 
+ SWTX   ,"SpringWorks Therapeutics, Inc.",35.59,+2.11,+6.30%,1.346M,1.298M ,2.647B,- ,-15.96% 
+ XPEV   ,XPeng Inc.,13.87,+0.82,+6.28%,12.484M,12.197M ,12.967B,- ,35.37% 
+ LTH   ,"Life Time Group Holdings, Inc.",26.63,+1.56,+6.22%,4.861M,1.226M ,5.512B,39.16 ,77.17% 
+ GDS   ,GDS Holdings Limited,22.72,+1.32,+6.17%,1.213M,1.297M ,4.537B,- ,276.10% 
+ OTGLY   ,CD Projekt S.A.,12.33,+0.70,+6.02%,"19,277","14,018 ",4.948B,47.42 ,88.86% 
+ NXT   ,Nextracker Inc.,45.27,+2.54,+5.94%,2.128M,2.651M ,6.675B,11.32 ,-1.84% 
+ CAMT   ,Camtek Ltd.,98.94,+5.46,+5.84%,"827,652","496,072 ",4.491B,42.83 ,25.70% 
+ LINE   ,"Lineage, Inc.",57.41,+3.06,+5.63%,"687,111","999,105 ",14.473B,- ,-32.72% 
+ ZGN   ,Ermenegildo Zegna N.V.,8.12,+0.43,+5.59%,2.224M,"894,381 ",2.05B,20.30 ,-25.34% 
+ DXCM   ,"DexCom, Inc.",84.84,+4.44,+5.52%,5.999M,3.969M ,33.138B,51.42 ,-33.35% 
+ IONQ   ,"IonQ, Inc.",41.55,+2.16,+5.48%,45.956M,32.51M ,8.991B,- ,263.04% 
+ AMT   ,American Tower Corporation,190.07,+9.75,+5.41%,3.545M,2.554M ,88.818B,45.80 ,-6.77% 
+ FOUR   ,"Shift4 Payments, Inc.",107.15,+5.31,+5.21%,1.357M,1.75M ,9.654B,59.53 ,35.41% 
+ ZETA   ,Zeta Global Holdings Corp.,18.81,+0.92,+5.14%,4.96M,8.752M ,4.466B,- ,83.30% 
+ TENB   ,"Tenable Holdings, Inc.",42.59,+2.07,+5.11%,1.563M,"953,346 ",5.117B,- ,-14.51% 
+ SOFI   ,"SoFi Technologies, Inc.",16.30,+0.79,+5.09%,42.385M,50.868M ,17.688B,125.38 ,107.08% 
+ DBRG   ,"DigitalBridge Group, Inc.",11.22,+0.54,+5.06%,1.879M,2.554M ,2.092B,12.47 ,-41.67% 
+ GMAB   ,Genmab A/S,21.22,+0.99,+4.89%,1.985M,1.253M ,14.44B,21.22 ,-30.10% 
+ CEG   ,Constellation Energy Corporation,315.24,+14.47,+4.81%,5.267M,3.295M ,98.619B,33.11 ,162.80% 
+ CWEN   ,"Clearway Energy, Inc.",26.46,+1.21,+4.79%,"927,327","866,613 ",4.994B,24.50 ,2.60% 
+ EL   ,The Estée Lauder Companies Inc.,78.07,+3.55,+4.76%,4.798M,4.687M ,28.025B,139.41 ,-37.96% 
+ CWEN-A   ,"Clearway Energy, Inc.",24.96,+1.13,+4.74%,"181,997","220,794 ",4.994B,23.11 ,9.14% 
+ ALHC   ,"Alignment Healthcare, Inc.",14.55,+0.65,+4.68%,2.155M,1.864M ,2.789B,- ,95.77% 
+ CCI   ,Crown Castle Inc.,90.65,+4.01,+4.63%,3.366M,3.05M ,39.396B,32.15 ,-16.04% 
+ AMAT   ,"Applied Materials, Inc.",186.48,+8.10,+4.54%,10.821M,6.58M ,151.736B,20.70 ,11.04% 
+ GKOS   ,Glaukos Corporation,156.51,+6.74,+4.50%,"517,536","590,930 ",8.63B,- ,64.06% 
+ TNDM   ,"Tandem Diabetes Care, Inc.",37.53,+1.58,+4.39%,1.291M,1.338M ,2.465B,- ,45.25% 
+ HRMY   ,"Harmony Biosciences Holdings, Inc.",38.54,+1.61,+4.36%,"676,047","753,690 ",2.198B,18.27 ,16.65% 
+ BURBY   ,Burberry Group plc,12.22,+0.51,+4.36%,"37,926","98,250 ",4.382B,94.00 ,-22.53% 
+ SATS   ,EchoStar Corporation,25.54,+1.06,+4.33%,1.549M,1.617M ,7.307B,- ,66.06% 
+ KLAC   ,KLA Corporation,747.26,+31.01,+4.33%,2.019M,1.17M ,99.954B,34.20 ,21.90% 
+ ELF   ,"e.l.f. Beauty, Inc.",133.91,+5.50,+4.28%,1.358M,2.218M ,7.543B,72.38 ,-18.62% 
+ JHX   ,James Hardie Industries plc,34.26,+1.39,+4.23%,"309,002","86,824 ",14.725B,33.92 ,-9.17% 
+ COTY   ,Coty Inc.,7.20,+0.29,+4.20%,6.377M,5.186M ,6.263B,40.00 ,-42.89% 
+ PAA   ,"Plains All American Pipeline, L.P.",20.16,+0.81,+4.19%,5.159M,3.677M ,14.186B,17.84 ,29.07% 
+ NVMI   ,Nova Ltd.,242.33,+9.67,+4.16%,"195,844","212,819 ",7.039B,43.51 ,67.78% 
+ FRSH   ,Freshworks Inc.,17.46,+0.69,+4.11%,3.313M,4.229M ,5.288B,- ,-21.05% 
+ ONTO   ,Onto Innovation Inc.,213.02,+8.35,+4.08%,"920,942","757,543 ",10.521B,57.57 ,25.66% 
+ LRCX   ,Lam Research Corporation,79.22,+3.07,+4.03%,19.108M,11.822M ,101.932B,25.64 ,-4.13% 
+ MS   ,Morgan Stanley,135.81,+5.26,+4.03%,13.85M,6.578M ,218.795B,20.64 ,59.14% 
+ BE   ,Bloom Energy Corporation,23.56,+0.91,+4.02%,3.004M,8.707M ,5.385B,- ,98.68% 
+ QDEL   ,QuidelOrtho Corporation,41.88,+1.61,+4.00%,"922,034","943,029 ",2.817B,- ,-41.30% 
+ PAGP   ,"Plains GP Holdings, L.P.",21.49,+0.82,+3.97%,4.053M,1.624M ,5.004B,25.58 ,25.81% 
+ CQP   ,"Cheniere Energy Partners, L.P.",61.93,+2.35,+3.94%,"341,594","161,111 ",29.977B,12.88 ,22.80% 
+ TSM   ,Taiwan Semiconductor Manufacturing Company Limited,214.79,+7.99,+3.86%,35.818M,13.508M ,1.114T,34.98 ,88.08% 
+ IRM   ,Iron Mountain Incorporated,110.25,+4.07,+3.83%,1.832M,1.693M ,32.354B,306.25 ,64.87% 
+ BRPHF   ,Galaxy Digital Holdings Ltd.,20.13,+0.74,+3.82%,"39,947","199,655 ",6.852B,6.16 ,205.16% 
+ BKH   ,Black Hills Corporation,59.11,+2.16,+3.79%,"510,197","511,680 ",4.231B,16.02 ,17.68% 
+ IEP   ,Icahn Enterprises L.P.,9.45,+0.34,+3.73%,2.464M,1.211M ,4.763B,- ,-46.00% 
+ AVTR   ,"Avantor, Inc.",22.57,+0.81,+3.72%,4.122M,5.775M ,15.361B,48.02 ,0.83% 
+ IRTC   ,"iRhythm Technologies, Inc.",106.99,+3.83,+3.71%,"524,470","492,376 ",3.349B,- ,-5.78% 
+ IPAR   ,"Interparfums, Inc.",137.85,+4.92,+3.70%,"113,146","136,734 ",4.415B,29.52 ,1.17% 
+ LMND   ,"Lemonade, Inc.",33.00,+1.17,+3.68%,1.755M,2.667M ,2.356B,- ,93.50% 
+ KNTK   ,Kinetik Holdings Inc.,64.60,+2.28,+3.66%,"611,851","549,046 ",3.86B,21.75 ,92.35% 
+ INSM   ,Insmed Incorporated,72.75,+2.55,+3.63%,2.245M,1.683M ,13.015B,- ,159.82% 
+ TRGP   ,Targa Resources Corp.,212.95,+7.45,+3.63%,1.909M,1.704M ,46.437B,38.51 ,158.15% 
+ RIVN   ,"Rivian Automotive, Inc.",14.44,+0.50,+3.59%,36.707M,40.274M ,14.738B,- ,-9.95% 
+ SYK   ,Stryker Corporation,381.79,+13.18,+3.58%,1.512M,1.297M ,145.544B,40.92 ,21.18% 
+ FNMAJ   ,Federal National Mortgage Association,10.72,+0.37,+3.57%,"21,263","71,881 ",14.797B,"1,531.43 ",220.96% 
+ BVHMF   ,Vistry Group PLC,7.56,+0.26,+3.56%,"31,589","43,836 ",2.498B,8.22 ,-36.20% 
+ TAC   ,TransAlta Corporation,13.69,+0.47,+3.56%,1.821M,1.175M ,4.086B,52.65 ,80.61% 
+ RGEN   ,Repligen Corporation,162.85,+5.56,+3.53%,"818,549","575,304 ",9.124B,- ,-8.52% 
+ CPRI   ,Capri Holdings Limited,23.78,+0.81,+3.53%,3.181M,5.348M ,2.804B,- ,-52.65% 
+ SBAC   ,SBA Communications Corporation,204.18,+6.95,+3.52%,"881,826","893,824 ",21.954B,32.26 ,-11.56% 
+ CNH   ,CNH Industrial N.V.,12.05,+0.41,+3.52%,7.092M,10.798M ,15.05B,8.55 ,-0.09% 
+ EXC   ,Exelon Corporation,39.34,+1.32,+3.47%,5.044M,6.367M ,39.53B,16.19 ,12.27% 
+ KC   ,Kingsoft Cloud Holdings Limited,9.91,+0.33,+3.44%,1.164M,3.636M ,2.353B,- ,261.51% 
+ HLNE   ,Hamilton Lane Incorporated,149.59,+4.98,+3.44%,"339,637","409,455 ",8.292B,32.45 ,21.82% 
+ TLN   ,Talen Energy Corporation,234.16,+7.77,+3.43%,1.534M,"906,491 ",10.762B,- ,247.76% 
+ STVN   ,Stevanato Group S.p.A.,22.91,+0.76,+3.43%,"301,028","465,710 ",6.252B,52.07 ,-21.84% 
+ ACHR   ,Archer Aviation Inc.,9.09,+0.30,+3.41%,25.964M,37.459M ,4.56B,- ,73.72% 
+ FLS   ,Flowserve Corporation,62.75,+2.07,+3.41%,2.481M,1.253M ,8.244B,30.91 ,54.52% 
+ GSHD   ,"Goosehead Insurance, Inc",114.59,+3.76,+3.39%,"208,421","241,566 ",4.113B,159.15 ,46.85% 
+ FTAI   ,FTAI Aviation Ltd.,120.00,+3.92,+3.38%,8.445M,1.706M ,12.306B,- ,131.42% 
+ BTDR   ,Bitdeer Technologies Group,21.54,+0.70,+3.36%,4.304M,7.793M ,4.146B,- ,225.62% 
+ JOBY   ,"Joby Aviation, Inc.",8.37,+0.27,+3.33%,11.357M,20.438M ,6.404B,- ,43.87% 
+ ASML   ,ASML Holding N.V.,750.28,+23.98,+3.30%,2.329M,1.749M ,297.153B,41.31 ,-1.00% 
+ PPL   ,PPL Corporation,33.17,+1.06,+3.30%,6.655M,4.468M ,24.478B,29.88 ,27.53% 
+ TPX   ,"Tempur Sealy International, Inc.",59.54,+1.90,+3.30%,1.796M,1.45M ,10.339B,27.19 ,16.75% 
+ CRBG   ,"Corebridge Financial, Inc.",31.70,+1.01,+3.29%,4.976M,3.65M ,17.911B,- ,26.40% 
+ HEI-A   ,HEICO Corporation,187.14,+5.92,+3.27%,"363,964","227,329 ",28.661B,50.85 ,35.02% 
+ CART   ,Maplebear Inc.,46.58,+1.47,+3.26%,3.29M,4.2M ,11.966B,4.27 ,73.43% 
+ VMI   ,"Valmont Industries, Inc.",336.00,+10.60,+3.26%,"167,261","133,416 ",6.732B,22.84 ,46.41% 
+ CRSP   ,CRISPR Therapeutics AG,40.30,+1.26,+3.23%,1.612M,1.785M ,3.44B,- ,-37.02% 
+ ERJ   ,Embraer S.A.,39.73,+1.24,+3.22%,2.194M,1.059M ,7.297B,14.66 ,129.39% 
+ PODD   ,Insulet Corporation,272.86,+8.48,+3.21%,"656,992","564,481 ",19.14B,46.48 ,33.45% 
+ BWIN   ,"The Baldwin Insurance Group, Inc.",40.87,+1.27,+3.21%,"408,931","705,156 ",2.762B,- ,54.21% 
+ POWL   ,"Powell Industries, Inc.",257.23,+7.99,+3.21%,"220,672","458,268 ",3.102B,20.93 ,220.70% 

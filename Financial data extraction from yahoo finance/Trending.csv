@@ -1,0 +1,26 @@
+symbol,name,price,change,percentchange,volume,avgvolume,marketcap,pbyeratio,fiftytwoweekpercentchange
+ AAPL   ,Apple Inc.,228.26,-9.61,-4.04%,68.999M,45.54M ,3.577T,39.09 ,19.16% 
+ RIVN   ,"Rivian Automotive, Inc.",14.44,+0.50,+3.59%,36.707M,40.274M ,14.738B,- ,-9.95% 
+ BMRA   ,"Biomerica, Inc.",0.7060,+0.3678,+108.75%,391.458M,7.425M ,11.876M,- ,-21.98% 
+ PLUG   ,Plug Power Inc.,2.7400,+0.0300,+1.11%,88.001M,64.795M ,2.497B,- ,2.24% 
+ SYM   ,Symbotic Inc.,31.82,+5.05,+18.86%,12.554M,2.406M ,18.692B,- ,-39.30% 
+ UNH   ,UnitedHealth Group Incorporated,510.59,-32.83,-6.04%,9.047M,4.694M ,500.101B,35.33 ,1.40% 
+ NUKK   ,Nukkleus Inc.,20.53,+3.60,+21.26%,"924,539",4.642M ,127.842M,- ,130.28% 
+ SENS   ,"Senseonics Holdings, Inc.",0.8750,+0.1640,+23.07%,40.385M,10.921M ,520.911M,- ,36.47% 
+ RUM   ,Rumble Inc.,12.25,+1.37,+12.59%,7.465M,6.841M ,3.479B,- ,203.06% 
+ JBHT   ,"J.B. Hunt Transport Services, Inc.",186.20,-0.35,-0.19%,1.316M,"815,344 ",18.775B,33.85 ,-6.30% 
+ TXN   ,Texas Instruments Incorporated,187.37,-10.14,-5.13%,7.458M,5.721M ,170.922B,34.89 ,7.90% 
+ IBRX   ,"ImmunityBio, Inc.",3.0400,+0.6500,+27.20%,19.638M,7.097M ,2.22B,- ,-33.61% 
+ TMC   ,TMC the metals company Inc.,1.5700,+0.2700,+20.77%,9.472M,1.637M ,509.093M,- ,4.00% 
+ LVMUY   ,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",144.12,+13.36,+10.22%,"204,740","396,963 ",368.022B,25.02 ,-0.47% 
+ ISPC   ,iSpecimen Inc.,2.8500,+0.2100,+7.95%,"212,597","504,635 ",2.744M,- ,-72.27% 
+ QRVO   ,"Qorvo, Inc.",73.59,-0.57,-0.77%,1.596M,2.837M ,6.956B,- ,-29.75% 
+ NEXT   ,NextDecade Corporation,9.04,+0.94,+11.60%,6.777M,1.789M ,2.353B,- ,76.86% 
+ AEON   ,"AEON Biopharma, Inc.",0.1709,+0.0613,+55.93%,662.391M,3.79M ,13.667M,- ,-98.61% 
+ AMAT   ,"Applied Materials, Inc.",186.48,+8.10,+4.54%,10.821M,6.58M ,151.736B,20.70 ,11.04% 
+ FOXO   ,FOXO Technologies Inc.,0.3150,+0.1156,+57.97%,91.364M,51.862M ,7.425M,6.30 ,-42.32% 
+ WHLR   ,"Wheeler Real Estate Investment Trust, Inc.",2.8500,+0.5000,+21.28%,80.593M,"515,777 ",6.845M,0.00 ,-99.74% 
+ DUOL   ,"Duolingo, Inc.",341.80,+21.82,+6.82%,"905,345","539,040 ",14.074B,175.28 ,64.43% 
+ DATS   ,"DatChat, Inc.",5.85,+1.59,+37.32%,80.762M,8.146M ,24.625M,- ,202.13% 
+ OKTA   ,"Okta, Inc.",85.67,+1.47,+1.75%,1.926M,3.087M ,14.68B,- ,3.59% 
+ CFRUY   ,Compagnie Financière Richemont SA,17.73,+2.59,+17.11%,"81,881","731,052 ",103.638B,29.55 ,31.85% 

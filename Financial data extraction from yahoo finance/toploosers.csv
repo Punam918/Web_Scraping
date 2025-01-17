@@ -1,0 +1,91 @@
+symbol,name,price,change,percentchange,volume,avgvolume,marketcap,pbyeratio,fiftytwoweekpercentchange
+ FNMA   ,Federal National Mortgage Association,5.40,-0.81,-13.04%,13.054M,19.46M ,6.254B,- ,390.91% 
+ APGE   ,"Apogee Therapeutics, Inc.",36.70,-3.76,-9.29%,1.028M,"476,793 ",2.302B,- ,20.09% 
+ QXO   ,"QXO, Inc.",13.71,-1.31,-8.72%,3.944M,2.187M ,5.613B,24.05 ,-86.58% 
+ JANX   ,"Janux Therapeutics, Inc.",40.61,-3.32,-7.56%,"851,421",1.099M ,2.381B,- ,374.92% 
+ KYMR   ,"Kymera Therapeutics, Inc.",40.29,-3.27,-7.51%,"753,088","464,490 ",2.609B,- ,58.46% 
+ PVH   ,PVH Corp.,92.20,-6.81,-6.88%,2.504M,"801,786 ",5.129B,7.55 ,-23.66% 
+ VKTX   ,"Viking Therapeutics, Inc.",32.56,-2.30,-6.60%,4.988M,4.579M ,3.628B,- ,60.13% 
+ FRO   ,Frontline plc,17.49,-1.21,-6.47%,5.009M,3.136M ,4.163B,7.60 ,-21.36% 
+ TRMD   ,TORM plc,20.95,-1.40,-6.26%,1.688M,1.321M ,2.208B,2.89 ,-35.55% 
+ NSANY   ,"Nissan Motor Co., Ltd.",5.28,-0.34,-6.05%,"51,587","670,404 ",9.654B,10.35 ,-31.96% 
+ UNH   ,UnitedHealth Group Incorporated,510.59,-32.83,-6.04%,9.047M,4.694M ,500.101B,35.33 ,1.40% 
+ IMPUY   ,Impala Platinum Holdings Limited,5.22,-0.33,-5.95%,"37,224","314,186 ",4.715B,- ,34.19% 
+ MGNI   ,"Magnite, Inc.",15.14,-0.95,-5.90%,2.343M,1.815M ,2.13B,116.46 ,79.78% 
+ INFY   ,Infosys Limited,21.57,-1.32,-5.77%,22.92M,7.446M ,89.344B,28.01 ,7.90% 
+ EXAS   ,Exact Sciences Corporation,50.44,-3.08,-5.75%,5.945M,2.585M ,9.335B,- ,-23.40% 
+ MLTX   ,MoonLake Immunotherapeutics,41.47,-2.50,-5.69%,"450,344","250,358 ",2.615B,- ,-17.86% 
+ USB   ,U.S. Bancorp,48.03,-2.87,-5.64%,17.254M,7.662M ,74.928B,14.78 ,14.33% 
+ PTON   ,"Peloton Interactive, Inc.",8.49,-0.48,-5.35%,13.829M,17.502M ,3.239B,- ,61.04% 
+ WULF   ,TeraWulf Inc.,5.85,-0.33,-5.34%,33.491M,29.313M ,2.258B,- ,323.91% 
+ EWTX   ,"Edgewise Therapeutics, Inc.",26.72,-1.48,-5.25%,"945,285","809,856 ",2.53B,- ,116.26% 
+ SNAP   ,Snap Inc.,11.22,-0.62,-5.24%,34.798M,30.48M ,19.858B,- ,-27.89% 
+ ECG   ,"Everus Construction Group, Inc.",66.29,-3.66,-5.23%,"641,440","618,101 ",3.379B,26.62 ,42.76% 
+ TXN   ,Texas Instruments Incorporated,187.37,-10.14,-5.13%,7.458M,5.721M ,170.922B,34.89 ,7.90% 
+ ZIM   ,ZIM Integrated Shipping Services Ltd.,16.62,-0.89,-5.08%,7.066M,6.403M ,2.108B,1.47 ,36.05% 
+ SMTC   ,Semtech Corporation,68.93,-3.58,-4.94%,3.4M,1.719M ,5.94B,- ,225.14% 
+ WMMVY   ,"Wal-Mart de México, S.A.B. de C.V.",26.49,-1.36,-4.88%,"63,908","177,283 ",48.893B,18.65 ,-33.48% 
+ CRL   ,"Charles River Laboratories International, Inc.",165.80,-8.11,-4.66%,2.606M,"738,978 ",8.893B,21.70 ,-21.80% 
+ CEPU   ,Central Puerto S.A.,13.67,-0.64,-4.47%,"415,698","387,096 ",2.054B,11.20 ,57.43% 
+ NTES   ,"NetEase, Inc.",99.31,-4.61,-4.44%,1.905M,1.376M ,64.005B,17.15 ,8.30% 
+ CMBT   ,Cmb.Tech NV,11.16,-0.49,-4.21%,"66,173","115,258 ",2.171B,1.87 ,-33.81% 
+ TEO   ,Telecom Argentina S.A.,12.56,-0.54,-4.12%,"151,652","269,406 ",4.179B,13.08 ,69.27% 
+ PAGS   ,PagSeguro Digital Ltd.,6.64,-0.28,-4.05%,4.879M,5.446M ,2.159B,6.71 ,-45.08% 
+ AAPL   ,Apple Inc.,228.26,-9.61,-4.04%,68.999M,45.54M ,3.577T,39.09 ,19.16% 
+ CAAP   ,Corporación América Airports S.A.,18.54,-0.78,-4.04%,"134,875","161,116 ",2.987B,8.87 ,20.98% 
+ KGC   ,Kinross Gold Corporation,10.23,-0.43,-4.03%,24.865M,17.433M ,13.084B,17.64 ,89.44% 
+ HAFN   ,Hafnia Limited,5.73,-0.24,-4.02%,2.017M,2.568M ,2.874B,3.39 ,-19.05% 
+ SIG   ,Signet Jewelers Limited,56.59,-2.33,-3.95%,2.927M,1.286M ,2.461B,6.62 ,-42.91% 
+ UPWK   ,Upwork Inc.,16.37,-0.66,-3.88%,2.044M,2.407M ,2.188B,26.40 ,17.29% 
+ CFLT   ,"Confluent, Inc.",26.74,-1.07,-3.85%,7.364M,3.829M ,8.771B,- ,26.47% 
+ HCM   ,HUTCHMED (China) Limited,13.32,-0.53,-3.83%,"160,735","77,838 ",2.634B,- ,-2.94% 
+ SLAB   ,Silicon Laboratories Inc.,132.50,-5.12,-3.72%,"279,457","301,221 ",4.299B,- ,4.88% 
+ PTGX   ,"Protagonist Therapeutics, Inc.",36.54,-1.40,-3.69%,"630,245","672,456 ",2.178B,13.34 ,53.17% 
+ PAM   ,Pampa Energía S.A.,89.01,-3.41,-3.69%,"151,390","277,427 ",5.777B,9.08 ,86.29% 
+ STNE   ,StoneCo Ltd.,8.42,-0.32,-3.66%,5.931M,5.425M ,2.499B,8.02 ,-48.68% 
+ STNG   ,Scorpio Tankers Inc.,54.42,-2.06,-3.65%,"904,288","994,052 ",2.75B,3.90 ,-16.42% 
+ GBOOY   ,"Grupo Financiero Banorte, S.A.B. de C.V.",34.54,-1.29,-3.60%,"20,659","68,214 ",19.665B,7.62 ,-29.46% 
+ ENPH   ,"Enphase Energy, Inc.",63.47,-2.36,-3.58%,4.211M,4.738M ,8.575B,137.98 ,-36.45% 
+ SPGYF   ,Whitecap Resources Inc.,6.94,-0.25,-3.48%,"25,048","161,006 ",4.081B,6.87 ,9.98% 
+ TGTX   ,"TG Therapeutics, Inc.",29.14,-1.04,-3.45%,1.716M,3.02M ,4.536B,- ,93.36% 
+ OII   ,"Oceaneering International, Inc.",26.18,-0.93,-3.43%,"689,210","809,908 ",2.646B,19.83 ,29.54% 
+ TSLA   ,"Tesla, Inc.",413.82,-14.40,-3.36%,67.119M,93.352M ,1.375T,117.56 ,95.02% 
+ WAFD   ,"WaFd, Inc.",31.01,-1.07,-3.34%,1.162M,"466,395 ",2.523B,12.40 ,4.45% 
+ TWODY   ,Taylor Wimpey plc,13.45,-0.46,-3.31%,"66,394","166,375 ",4.761B,15.82 ,-36.77% 
+ AEO   ,"American Eagle Outfitters, Inc.",15.58,-0.53,-3.29%,5.56M,5.073M ,3.095B,13.79 ,-22.95% 
+ WBD   ,"Warner Bros. Discovery, Inc.",9.47,-0.32,-3.27%,20.105M,30.235M ,24.016B,- ,-8.50% 
+ VERA   ,"Vera Therapeutics, Inc.",32.78,-1.10,-3.25%,"692,240","775,970 ",2.076B,- ,126.93% 
+ RDY   ,Dr. Reddy's Laboratories Limited,14.83,-0.49,-3.20%,2.398M,1.355M ,12.893B,20.04 ,9.22% 
+ CDE   ,"Coeur Mining, Inc.",6.19,-0.20,-3.13%,7.012M,10.038M ,2.472B,- ,138.08% 
+ SNV   ,Synovus Financial Corp.,54.23,-1.75,-3.13%,2.807M,1.338M ,7.682B,24.65 ,44.11% 
+ ON   ,ON Semiconductor Corporation,53.51,-1.72,-3.11%,8.61M,7.144M ,22.784B,13.28 ,-27.56% 
+ GRFS   ,"Grifols, S.A.",7.24,-0.23,-3.08%,"903,373",1.024M ,5.785B,30.17 ,7.10% 
+ USLM   ,"United States Lime & Minerals, Inc.",121.53,-3.79,-3.02%,"104,840","108,767 ",3.475B,35.23 ,170.33% 
+ BMA   ,Banco Macro S.A.,111.63,-3.48,-3.02%,"361,160","315,216 ",8.008B,15.74 ,290.18% 
+ FICO   ,Fair Isaac Corporation,"1,969.68",-60.79,-2.99%,"197,803","159,867 ",47.958B,96.04 ,56.30% 
+ FUL   ,H.B. Fuller Company,62.22,-1.92,-2.99%,"679,258","315,775 ",3.399B,19.26 ,-18.93% 
+ FLG   ,"Flagstar Financial, Inc.",9.20,-0.28,-2.95%,3.671M,6.292M ,3.819B,- ,-69.24% 
+ DDOG   ,"Datadog, Inc.",136.79,-4.16,-2.95%,5.656M,4.55M ,46.471B,248.71 ,8.17% 
+ PI   ,"Impinj, Inc.",132.51,-4.01,-2.94%,1.597M,"581,350 ",3.748B,145.61 ,42.19% 
+ ALAB   ,"Astera Labs, Inc.",127.90,-3.87,-2.94%,4.156M,4.776M ,20.9B,- ,112.43% 
+ MRNA   ,"Moderna, Inc.",33.76,-1.01,-2.90%,7.299M,9.014M ,12.991B,- ,-65.13% 
+ IONS   ,"Ionis Pharmaceuticals, Inc.",32.28,-0.93,-2.80%,2.141M,1.426M ,5.097B,- ,-36.68% 
+ OSCR   ,"Oscar Health, Inc.",14.95,-0.43,-2.80%,2.026M,4.327M ,3.697B,- ,43.34% 
+ POWI   ,"Power Integrations, Inc.",60.90,-1.75,-2.79%,"431,871","380,981 ",3.463B,93.69 ,-25.96% 
+ BBAR   ,Banco BBVA Argentina S.A.,22.72,-0.65,-2.78%,"602,295","885,113 ",5.234B,24.70 ,333.59% 
+ OLYMY   ,Olympus Corporation,14.67,-0.41,-2.72%,"37,490","99,226 ",16.544B,31.21 ,-4.30% 
+ HBI   ,Hanesbrands Inc.,8.31,-0.23,-2.69%,5.232M,5.772M ,2.929B,- ,105.69% 
+ PARA   ,Paramount Global,10.16,-0.28,-2.68%,14.823M,9.536M ,7.255B,- ,-24.18% 
+ PBF   ,PBF Energy Inc.,30.48,-0.83,-2.65%,2.14M,2.222M ,3.509B,- ,-26.71% 
+ YPF   ,YPF Sociedad Anónima,43.82,-1.18,-2.62%,2.068M,2.539M ,19.878B,22.13 ,180.36% 
+ EGO   ,Eldorado Gold Corporation,14.57,-0.39,-2.61%,2.666M,1.33M ,2.986B,10.33 ,15.27% 
+ SMR   ,NuScale Power Corporation,20.28,-0.54,-2.59%,5.941M,11.187M ,2.452B,- ,946.23% 
+ SU   ,Suncor Energy Inc.,39.07,-1.04,-2.59%,6.959M,4.185M ,49.115B,9.02 ,24.07% 
+ IDEXY   ,"Industria de Diseño Textil, S.A.",25.20,-0.67,-2.59%,"75,942","223,688 ",161.315B,27.39 ,18.42% 
+ URBN   ,"Urban Outfitters, Inc.",53.21,-1.41,-2.58%,2.17M,1.812M ,4.91B,15.25 ,33.49% 
+ EBR   ,Centrais Elétricas Brasileiras S.A. - Eletrobrás,5.72,-0.15,-2.56%,1.205M,1.543M ,12.404B,7.84 ,-32.71% 
+ BBIO   ,"BridgeBio Pharma, Inc.",34.11,-0.89,-2.54%,2.842M,2.224M ,6.615B,- ,-4.48% 
+ ACHC   ,"Acadia Healthcare Company, Inc.",41.95,-1.09,-2.53%,1.231M,1.844M ,3.897B,13.75 ,-51.18% 
+ MTN   ,"Vail Resorts, Inc.",180.05,-4.67,-2.53%,1.137M,"556,040 ",6.741B,29.71 ,-19.32% 
+ NE   ,Noble Corporation plc,33.76,-0.87,-2.51%,1.702M,1.878M ,5.415B,9.93 ,-20.70% 
+ ASTS   ,"AST SpaceMobile, Inc.",21.00,-0.54,-2.51%,3.294M,8.725M ,6.241B,- ,597.09% 
