@@ -5,7 +5,7 @@ import time
 from selenium.webdriver.common.keys import Keys
 
 # Path to your chromedriver
-s = Service("C:/Users/admin/Desktop/chromedriver-win64/chromedriver.exe")
+s = Service("E:/apps/Downloads/chromedriver-win64/chromedriver.exe")
 
 # Start Chrome browser
 driver = webdriver.Chrome(service=s)
